@@ -1,0 +1,17 @@
+Summary of OSS lecture2
+
+In this lecture, we learn how to create a repository and commit it to the main prorgram
+
+Step 1. Create a branch
+-What is a branch?
+ A Branch is a parallel version of your repository. By default, your repository has one branch named [main] and it is considered to be the definintive branch. You can create additional branches off of [main] in your repository. You can use branches to have different versions of a project at one time.
+ By adding addintional branches, you could make edits without damaging the [main] version. Branches allow you to seperate your work from the [main] branch.
+
+Step 2. Commit a new file
+Commit the edit you made from the original [main] branch. You could think this as uploading a new version of branch.
+
+Step 3. Open a pull request
+By pulling a request, you could request to make a change in the [main] branch. If the request gets accepeted, the edited version you made becomes the new [main] branch
+
+Step 4. Merge your pull request
+In this step, you accept the pull request. You should be carefull because your this means you confirm to make a change in your [main] version branch.
